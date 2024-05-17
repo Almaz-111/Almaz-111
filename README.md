@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Almaz Akhtar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **ParkEase**
+
 
 - 🌱 I’m currently learning **Full Stack Development**
 
