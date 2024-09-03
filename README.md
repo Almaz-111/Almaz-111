@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Almaz Akhtar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **almazakhtar111@gmail.com**
@@ -13,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/almaz-akhtar-266180228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/almaz-akhtar-266180228/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/almazakhtar111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/almazakhtar111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/almaz_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/almaz_1/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/almaz_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/almaz_1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
