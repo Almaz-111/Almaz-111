@@ -14,8 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/almaz-akhtar-266180228/"><img align ="center" src="https://www.vikingcamps.com/wp-content/uploads/2024/01/linkedin-logo-linkedin-icon-transparent-free-png.webp" alt="https://www.linkedin.com/in/almaz-akhtar-266180228/" height="30" width="40" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/almaz-akhtar-266180228/"><img align ="center" src="https://cdn-icons-png.freepik.com/256/13670/13670350.png?semt=ais_hybrid" alt="https://www.linkedin.com/in/almaz-akhtar-266180228/" height="30" width="40" style="max-width:100%;">
 </a>
+  <a href="https://leetcode.com/u/Almaz_1/"><img align ="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSINl9tj1jIZHxMAJ8eYAFr6LRFyGdPCTVHtO2aOFVnNZ03t0wcldhEQ0gkcGMn4_fuFsY&usqp=CAU" alt="https://leetcode.com/u/Almaz_1/" height="30" width="40" style="max-width:100%;">
+  </a>
+  <a href="https://www.hackerrank.com/profile/almazakhtar111"><img align ="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/profile/almazakhtar111" height="30" width="40" style="max-width:100%;">
+  </a>
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
