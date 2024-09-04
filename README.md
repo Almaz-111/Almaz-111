@@ -20,8 +20,6 @@
   </a>
   <a href="https://www.hackerrank.com/profile/almazakhtar111"><img align ="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/profile/almazakhtar111" height="30" width="40" style="max-width:100%;">
   </a>
-   <a href="https://www.instagram.com/almaz_akhtar111/?igsh=cmR4MnBqazZtb25z"><img align ="center" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg" alt="https://www.instagram.com/almaz_akhtar111/?igsh=cmR4MnBqazZtb25z" height="30" width="40" style="max-width:100%;">
-  </a>
   
 </p>
 
