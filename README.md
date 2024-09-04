@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Almaz Akhtar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c516d1cd-9e2a-4ba6-a1ad-0e913f817fbd)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/915d1ab1-ddaf-41ff-8fe9-dd16edaf0c39)">
+
 
 
 
